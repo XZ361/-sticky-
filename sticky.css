@@ -1,0 +1,12 @@
+main{
+	max-height: 600px;
+	margin: 0 auto;
+}
+h2{
+	position: sticky;
+	top: 0;
+	margin: 0;
+	padding: 10px;
+	background: #000;
+	color: #fff;
+}
